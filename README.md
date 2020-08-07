@@ -23,3 +23,5 @@ chmod +x restart.sh
 访问 http://{ip地址}:1667/layer-test?param={字母}
 会返回字母的大写即为成功
 
+参考资料：https://blog.tratif.com/2020/05/20/spring-tips-2-layered-jars-with-spring-boot-2-3-0/
+
